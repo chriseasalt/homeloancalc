@@ -5,6 +5,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import plotly.express as px
 import calendar
+from streamlit_extras.stylable_container import stylable_container
 
 
 # Streamlit page configuration
