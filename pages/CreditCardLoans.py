@@ -1,11 +1,9 @@
 import streamlit as st
 from streamlit.hello.utils import show_code
 
-st.set_page_config(page_title="About Us", page_icon="☎️")
-st.markdown("# About Us")
-st.sidebar.header("About Us")
+st.set_page_config(page_title="Credit Card Loans", page_icon="☎️")
+st.markdown("# Credit Card Loans")
+st.sidebar.header("Credit Card Loans")
 st.write(
-    """This demo illustrates a combination of plotting and animation with
-Streamlit. We're generating a bunch of random numbers in a loop for around
-5 seconds. Enjoy!"""
+    """In the making.. figuring out how to link to sagemaker endpoints"""
 )
